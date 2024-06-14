@@ -1,2 +1,1 @@
-# backup-wsl
-backup
+.
